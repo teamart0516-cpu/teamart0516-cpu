@@ -1,5 +1,5 @@
 # Hello! I'm Uncrowned Prince 
-# Python Learner | Cybersecurity Enthusiast | 13 y.o.
+# Python Learner | Cybersecurity Incident responder.
 
 - 🛠 **Current Focus:** Learning Python and Cybersecurity fundamentals.
 - 🐍 **Tech Stack:** Python (Core), Voice Recognition (VAD) & AI Basics.
