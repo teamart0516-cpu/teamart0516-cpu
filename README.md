@@ -1,7 +1,9 @@
-# Hello! I'm Uncrowned Prince 
-# Python Learner | Cybersecurity Incident responder.
+# Hello, I'm Uncrowned Prince
 
-- 🛠 **Current Focus:** Learning Python and Cybersecurity fundamentals.
-- 🐍 **Tech Stack:** Python (Core), Voice Recognition (VAD) & AI Basics.
-- 🔭 **Learning Path:** Advanced Python, Network Security, and LLMs.
-- ⚡ **Goal:** Building smart automation tools and becoming a senior level developer.
+Just a 13 y.o. guy learning how to code.
+
+- 🐍 **Python:** Writing scripts and automations. Currently working on `telegram-bot`.
+- 🛡️ **CyberSec:** Learning the basics of networking and how to handle incidents.
+- 🤖 **AI:** Messing around with LLMs and Voice Recognition (VAD).
+
+*Current goal: Build tools that actually work.*
