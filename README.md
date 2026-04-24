@@ -7,3 +7,5 @@ Just a 13 y.o. guy learning how to code.
 - **AI:** Messing around with LLMs and Voice Recognition (VAD).
 
 *Current goal: Build tools that actually work.*
+
+*DM me in telegram*
